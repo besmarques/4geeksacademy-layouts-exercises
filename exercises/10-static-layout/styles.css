@@ -1,5 +1,22 @@
 /* your code here */
+body {
+	padding: 5%;
+}
 
+wrapper {
+	display: inline-flex;
+}
+
+nav {
+	width: 20%;
+	margin-right: 1%;
+	float: left;
+}
+
+section {
+	width: 79%;
+	float: right;
+}
 /**************************************
 DON'T CHANGE ANYTHING AFTER THIS LINE
 **************************************/

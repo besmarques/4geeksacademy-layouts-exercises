@@ -1,4 +1,16 @@
 /* your code here */
-.h2 {display:none;
+h2 {
+	visibility: hidden;
+}
 
+h2:nth-of-type(2) {
+	display: none;
+}
+
+li {
+	display: inline-flex;
+}
+
+strong {
+	display: block;
 }
